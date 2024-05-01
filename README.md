@@ -93,6 +93,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iamsayanchowdhury/iamsayanchowdhury/output/snake.svg" alt="Snake animation" />
+
 
 ###
